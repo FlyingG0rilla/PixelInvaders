@@ -38,7 +38,7 @@ The finished project was submitted and graded as a written final exam (*Klausur*
 - Data Structures: ArrayList for entity management
 
 
-> > **Note:** This project was created in 2021 as one of my first completed programming assignments.
+>  **Note:** This project was created in 2021 as one of my first completed programming assignments.
 > It was developed in collaboration with a classmate as part of a school course.
 > Due to the age of the project, individual contributions are not tracked, and it is kept here to document my learning progress.
 
