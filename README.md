@@ -1,5 +1,5 @@
 # PixelInvaders
-Space Invaders remake made for an school assignment in 2021
+Space Invaders remake made for an school assignment in 2022
 
 
 ## Overview
